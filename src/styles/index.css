@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  overflow-x: hidden;
+  padding: 20px;
+}
+
+.custom-form{
+  width: 500px;
+}
+
+.btn{
+  margin: 10px 0;
+}
+
+.viewer{
+  width: 100%;
+  background-color: #6b1717;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-container {
+  max-width: 1200px; /* Set a maximum width for your content */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 20px; /* Add padding as needed */
+  /*background-color: rgb(96, 30, 30); /* Set a background color for the content area */
+}
